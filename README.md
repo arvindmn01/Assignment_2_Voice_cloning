@@ -9,7 +9,7 @@ This is the repo for cloning anyone voice to the Elon musk voice.
 <br>
 **2.** Download the `hubert_base.pt` model from the given drive link.
 
-**Huber Model link** - https://drive.google.com/file/d/1sGolIaW7Rc_8hNUy3_PUbpNH0xJ3wdIM/view?usp=drive_link
+**Hubert Model link** - https://drive.google.com/file/d/1sGolIaW7Rc_8hNUy3_PUbpNH0xJ3wdIM/view?usp=drive_link
   after downloading the hubert base model, copy the model to the same project folder.
 <br>
 <br>
