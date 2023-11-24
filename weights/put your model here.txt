@@ -1,1 +1,1 @@
-Create a new folder here and put the model and index file on that folder.
+put the model file (.pth) here and index file (.index) inside the index folder
