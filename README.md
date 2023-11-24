@@ -21,6 +21,8 @@ and **Index file link** - https://drive.google.com/file/d/1dS86FM2PCHn_6DfND6L86
 4. run the application using this command
 `python infer.py` it will give you local host URL copy and paste that url to any browser,
 there you can see the entire application you just need to select the model and index file, and then after drag and drop the input voice file and set the different hyper parameters and also set the pitch extraction algorithm.
+
+
 after that click on convert button, you will see the progress and at the end can download the file.
 <br>
 application Screenshot.
